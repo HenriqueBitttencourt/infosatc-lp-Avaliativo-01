@@ -3,7 +3,7 @@ Técnico de informática SATC <p>
 08/31/2020 <p>
 Henrique Bitencourt da Rosa <p>
 
-![]https://www1.satc.edu.br/portais/acesso/public/assets/img/logoSatc.png
+![](https://www1.satc.edu.br/portais/acesso/public/assets/img/logoSatc.png)
 
 [Exercício07]https://github.com/HenriqueBitttencourt/infosatc-lp-Avaliativo-01/blob/master/Atividade7.py
 [Exercício10]https://github.com/HenriqueBitttencourt/infosatc-lp-Avaliativo-01/blob/master/Atividade10.py
